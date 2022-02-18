@@ -1,2 +1,5 @@
 # blackChess
-chess AI inside an SFML GUI
+
+![alt tag](https://raw.githubusercontent.com/FireFather/blackChess/master/blackChess.png)
+
+chess AI inside a simple SFML GUI
